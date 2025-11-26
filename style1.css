@@ -446,7 +446,7 @@ background-size:200%;
 .project-card {
   background: black;
   padding: 20px;
-  border: solid 1px rgb(89, 88, 88);
+  border: solid 1px rgb(116, 114, 114);
   border-radius: 16px;
   box-shadow: 0 5px 15px rgba(99, 98, 98, 0.34);
   transition: 0.3s ease;
@@ -468,7 +468,7 @@ background-size:200%;
 }
 
 .project-card p {
-  color: #555;
+  color: white;
   font-size: 0.9rem;
   margin-bottom: 15px;
 }
@@ -593,7 +593,7 @@ background-size:200%;
 }
 
 .service-card p {
-  color: #555;
+  color: lightgray;
   font-size: 0.9rem;
   transition: color 0.5s;
   position: relative;
@@ -777,19 +777,9 @@ background-size:200%;
 }
 
 
-.mainaadmicard{
-  background-image: url('mainaadmi2.png');
-  background-size: cover; 
-}
 
-.mainaadmicard h1{
-  top: 190px;
-  color: grey;
-}
 
-.mainaadmicard p{
-  color: grey;
-}
+
 
 /*team section*/
 
